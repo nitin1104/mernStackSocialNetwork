@@ -1,1 +1,1 @@
-# mernStackSocialNetwork
+# Social Network
